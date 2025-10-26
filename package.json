@@ -1,0 +1,11 @@
+{
+  "name": "express-performance-profiler",
+  "version": "1.0.0",
+  "description": "A lightweight Express middleware to collect request performance metrics and log slow endpoints.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests included\""
+  },
+  "keywords": ["express", "middleware", "performance", "metrics", "profiling"],
+  "license": "MIT"
+}
